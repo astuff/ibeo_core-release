@@ -1,6 +1,6 @@
 # Core Library for Ibeo ROS Drivers #
 
-[![Build Status](https://travis-ci.org/astuff/ibeo_core.svg?branch=master)](https://travis-ci.org/astuff/ibeo_core)
+[![CircleCI](https://circleci.com/gh/astuff/ibeo_core/tree/master.svg?style=svg)](https://circleci.com/gh/astuff/ibeo_core/tree/master)
 
 This implements core functions for the following devices:
 
@@ -8,3 +8,5 @@ This implements core functions for the following devices:
 - Ibeo LUX Fusion
 - Ibeo Scala
 - Ibeo Scala Fusion
+
+For more information, see the [ROS wiki](http://wiki.ros.org/ibeo_core).
