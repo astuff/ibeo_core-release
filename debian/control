@@ -1,0 +1,12 @@
+Source: ros-lunar-ibeo-core
+Section: misc
+Priority: extra
+Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-network-interface, ros-lunar-roslint
+Homepage: http://wiki.ros.org/ibeo_core
+Standards-Version: 3.9.2
+
+Package: ros-lunar-ibeo-core
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-network-interface
+Description: The ibeo_core package
